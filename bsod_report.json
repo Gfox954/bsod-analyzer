@@ -1,0 +1,27 @@
+{
+    "timestamp": "2026-09-27 20:21:04",
+    "minidump_directory": "C:\\Windows\\Minidump",
+    "dump_count": 5,
+    "analysis": [
+        {
+            "dump_path": "C:\\Windows\\Minidump\\091125-18000-01.dmp",
+            "error": "Command '['powershell', '-Command', \"Get-Content -Path 'C:\\\\Windows\\\\Minidump\\\\091125-18000-01.dmp' -Encoding Byte -ReadCount 1024 | ForEach-Object { $_ } | Out-String\"]' timed out after 30 seconds"
+        },
+        {
+            "dump_path": "C:\\Windows\\Minidump\\092325-18718-01.dmp",
+            "error": "Command '['powershell', '-Command', \"Get-Content -Path 'C:\\\\Windows\\\\Minidump\\\\092325-18718-01.dmp' -Encoding Byte -ReadCount 1024 | ForEach-Object { $_ } | Out-String\"]' timed out after 30 seconds"
+        },
+        {
+            "dump_path": "C:\\Windows\\Minidump\\092425-18031-01.dmp",
+            "error": "Command '['powershell', '-Command', \"Get-Content -Path 'C:\\\\Windows\\\\Minidump\\\\092425-18031-01.dmp' -Encoding Byte -ReadCount 1024 | ForEach-Object { $_ } | Out-String\"]' timed out after 30 seconds"
+        },
+        {
+            "dump_path": "C:\\Windows\\Minidump\\111725-18828-01.dmp",
+            "error": "Command '['powershell', '-Command', \"Get-Content -Path 'C:\\\\Windows\\\\Minidump\\\\111725-18828-01.dmp' -Encoding Byte -ReadCount 1024 | ForEach-Object { $_ } | Out-String\"]' timed out after 30 seconds"
+        },
+        {
+            "dump_path": "C:\\Windows\\Minidump\\123025-17500-01.dmp",
+            "error": "Command '['powershell', '-Command', \"Get-Content -Path 'C:\\\\Windows\\\\Minidump\\\\123025-17500-01.dmp' -Encoding Byte -ReadCount 1024 | ForEach-Object { $_ } | Out-String\"]' timed out after 30 seconds"
+        }
+    ]
+}
